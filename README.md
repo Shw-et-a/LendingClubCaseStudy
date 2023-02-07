@@ -11,8 +11,11 @@ You work for a consumer finance company which specialises in lending various typ
   ➢If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
 * [Technologies Used]
+
      ➢ Jupyter notebook
+     
      ➢ Gitbash and github
+     
      ➢ MS Excel
 
 * [Conclusions]
@@ -21,9 +24,13 @@ You work for a consumer finance company which specialises in lending various typ
 
 # Process 
 Step 1: Data Cleaning 1
+
 Step 2: Univariate Analysis
+
 Step 3: Segemented Univariate Analysis
+
 Step 4: Bivaraiate/Multivariate Analysis
+
 Step 5: Results
 
 
